@@ -1,12 +1,12 @@
 const firebaseConfig = {
 // Add your firebase config here
-apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-measurementId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+apiKey: "AIzaSyC6N09I4SkDnZz9PjW2W4_ONpqzSZc_idM",
+authDomain: "doggostorage-3211f.firebaseapp.com",
+projectId: "doggostorage-3211f",
+storageBucket: "doggostorage-3211f.appspot.com",
+messagingSenderId: "152526404167",
+appId: "1:152526404167:web:8d9f0e3a3f6b1124c9cf62",
+measurementId: "G-E210L1YYE3"
 };
 
 // Initialize Firebase
